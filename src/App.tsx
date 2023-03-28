@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <div className="column justify-content-center align-items-center">
-        <ValidatorInfo validatorAddress="one1w7nvheulzwprf9d9a3r8sqtv5q47qlqx7kured" />
-        <StakingBlock validatorAddress="one1w7nvheulzwprf9d9a3r8sqtv5q47qlqx7kured" />
+        <ValidatorInfo validatorAddress="one1v0n7nw6c4fe88xnuasr0d65luult0fvclvvxmf" />
+        <StakingBlock validatorAddress="one1v0n7nw6c4fe88xnuasr0d65luult0fvclvvxmf" />
       </div>
     </div>
   );
